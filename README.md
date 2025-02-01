@@ -58,4 +58,4 @@ The platform supports three roles:
 
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone [https://github.com/your-username/Forum.ItAcademy.Ge.git](https://github.com/lukabatoni/-NET-Core-project---1.git)
+git clone https://github.com/lukabatoni/-NET-Core-project---1.git
